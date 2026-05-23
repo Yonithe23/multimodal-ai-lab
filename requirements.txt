@@ -1,0 +1,14 @@
+jupyter
+notebook
+ipykernel
+
+openai
+
+langchain
+langchain-openai
+langchain-community
+
+python-dotenv
+
+pandas
+numpy
